@@ -1,2 +1,2 @@
 # FOOD_DELIVERY_API
-This is a Food Delivery API
+This is the Food Delivery API
